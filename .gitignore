@@ -1,0 +1,10 @@
+*/cifar-10-batches-py
+
+__pycache__/
+.cache
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.wget-hsts
+.idea
